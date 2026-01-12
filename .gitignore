@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos Virtuales
+venv/
+.venv/
+llm-env/
+
+# Variables de Entorno
+.env
+
+# Bases de Datos Vectoriales
+chroma_db/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
