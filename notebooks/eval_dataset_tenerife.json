@@ -1,0 +1,37 @@
+[
+  {
+    "question": "¿Cuáles son las características climáticas de Tenerife?",
+    "answer": "Tenerife tiene un clima variado debido a su topografía, con temperaturas suaves y precipitaciones que varían según la altitud y la zona.",
+    "references": [
+      "Isla Baja (Icod de los Vinos, Garachico y Punta de Teno)"
+    ]
+  },
+  {
+    "question": "¿Qué actividades se pueden realizar en el Teide?",
+    "answer": "En el Teide se pueden realizar actividades como subir en teleférico, disfrutar de vistas espectaculares y observar cielos estrellados.",
+    "references": [
+      "Si queréis subir hasta el pico del Teide, podéis hacerlo desde aquí haciendo uso de los teleféricos del Teide."
+    ]
+  },
+  {
+    "question": "¿Cuáles son los principales atractivos turísticos de Tenerife?",
+    "answer": "Los principales atractivos turísticos incluyen el Loro Parque, el Auditorio de Tenerife, y el Siam Park, conocido como el mejor parque acuático del mundo.",
+    "references": [
+      "Para visitar el Puerto de la Cruz, os recomendaría ... el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
+    ]
+  },
+  {
+    "question": "¿Cuál es la flora endémica de Tenerife?",
+    "answer": "Tenerife alberga la mayor cantidad de endemismos de Europa, destacando en su Parque Rural de Anaga.",
+    "references": [
+      "Parque rural de Anaga ... cuenta con la mayor cantidad de endemismos de Europa."
+    ]
+  },
+  {
+    "question": "¿Qué eventos culturales destacan en Tenerife?",
+    "answer": "Destacan las fiestas de La Orotava, donde se realiza una alfombra gigante de arenas y tierras del Teide, considerada de interés turístico nacional.",
+    "references": [
+      "Las fiestas de La Orotava ...  y tiene el récord Guinness de mayor tapiz de tierra del mundo."
+    ]
+  }
+]
