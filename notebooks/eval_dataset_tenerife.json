@@ -1,42 +1,38 @@
 [
   {
-    "question": "¿Cuáles son las principales atracciones turísticas de Tenerife?",
-    "answer": "Las principales atracciones turísticas de Tenerife incluyen el Parque Nacional del Teide, el Loro Parque, el Siam Park y las playas de Costa Adeje.",
+    "question": "¿Cuál es el punto más alto de Tenerife?",
+    "answer": "El Teide es el punto más alto de Tenerife.",
     "references": [
-      "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife.",
-      "El Siam Park ha sido considerado 5 años consecutivos como el mejor parque acuático del mundo.",
-      "el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
+      "El Teide es el punto más alto de Tenerife『8:0†TENERIFE.pdf』."
     ]
   },
   {
-    "question": "¿Qué tipo de clima tiene Tenerife?",
-    "answer": "Tenerife posee un clima subtropical, caracterizado por temperaturas suaves durante todo el año y escasas precipitaciones.",
+    "question": "¿Qué actividades se pueden realizar en Tenerife?",
+    "answer": "En Tenerife se pueden realizar actividades como excursiones para ver delfines y ballenas, además de visitar parques acuáticos como Siam Park y hacer caminatas por el Parque Rural de Anaga.",
     "references": [
-      "Tenerife tiene un clima subtropical, que se traduce en temperaturas suaves y escasas precipitaciones durante el año."
+      "Los Gigantes es una zona... donde se hacen las típicas excursiones para ver delfines y ballenas『1:1†TENERIFE.pdf』.",
+      "En la zona de Costa Adeje debéis ir sí o sí al Siam Park... así que es visita obligatoria『1:0†TENERIFE.pdf』."
     ]
   },
   {
-    "question": "¿Cuáles son los eventos culturales más importantes en Tenerife?",
-    "answer": "Los eventos culturales más importantes en Tenerife incluyen las fiestas de La Orotava, famosas por su alfombra gigante de arenas del Teide, y el Carnaval de Santa Cruz.",
+    "question": "¿Cuál es la capital de Tenerife?",
+    "answer": "La capital de Tenerife es Santa Cruz de Tenerife.",
     "references": [
-      "En las fiestas de La Orotava se hace una alfombra gigante de arenas y tierras procedentes del Teide.",
-      "El Carnaval de Santa Cruz es uno de los eventos culturales más conocidos y visitados de la isla."
+      "Santa Cruz de Tenerife es la capital de la isla『0:0†TENERIFE.pdf』."
     ]
   },
   {
-    "question": "¿Cuáles son las características geográficas de Tenerife?",
-    "answer": "Tenerife es una isla montañosa con el Pico del Teide, el pico más alto de España, y abundantes costas y playas, tanto de arena negra como de arena blanca.",
+    "question": "¿Qué características geográficas tiene Tenerife?",
+    "answer": "Tenerife tiene una geografía variada que incluye montañas, playas de arena negra, y paisajes naturales como el Parque Rural de Anaga, que es un espacio natural protegido.",
     "references": [
-      "Es el municipio más alto de España y con mayor desnivel, ya que va desde el mar hasta el pico del Teide (3.718 m).",
-      "Tenerife presenta características montañosas marcadas, destacando el Pico del Teide como su forma geográfica más icónica."
+      "Es un espacio natural protegido, declarado Reserva de la Biosfera『7:0†TENERIFE.pdf』."
     ]
   },
   {
-    "question": "¿Qué actividades al aire libre se pueden realizar en Tenerife?",
-    "answer": "En Tenerife, se pueden realizar actividades como senderismo en el Parque Rural de Anaga, excursiones para ver delfines y ballenas, y deportes acuáticos en sus playas.",
+    "question": "¿Qué es el Teide y por qué es importante?",
+    "answer": "El Teide es un volcán y el pico más alto de España, además es una atracción turística principal en Tenerife.",
     "references": [
-      "Visitar esta zona de la isla es un must y lo suyo sería que aprovecharais un día en el Parque Rural de Anaga.",
-      "donde se hacen las típicas excursiones para ver delfines y ballenas."
+      "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife『8:0†TENERIFE.pdf』."
     ]
   }
 ]
