@@ -17,3 +17,5 @@ jupyter
 ipykernel
 
 pandas
+
+tabulate
