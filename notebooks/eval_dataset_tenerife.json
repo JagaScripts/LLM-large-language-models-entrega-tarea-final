@@ -1,37 +1,42 @@
 [
   {
-    "question": "¿Cuáles son las características climáticas de Tenerife?",
-    "answer": "Tenerife tiene un clima variado debido a su topografía, con temperaturas suaves y precipitaciones que varían según la altitud y la zona.",
+    "question": "¿Cuáles son las principales atracciones turísticas de Tenerife?",
+    "answer": "Las principales atracciones turísticas de Tenerife incluyen el Parque Nacional del Teide, el Loro Parque, el Siam Park y las playas de Costa Adeje.",
     "references": [
-      "Isla Baja (Icod de los Vinos, Garachico y Punta de Teno)"
+      "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife.",
+      "El Siam Park ha sido considerado 5 años consecutivos como el mejor parque acuático del mundo.",
+      "el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
     ]
   },
   {
-    "question": "¿Qué actividades se pueden realizar en el Teide?",
-    "answer": "En el Teide se pueden realizar actividades como subir en teleférico, disfrutar de vistas espectaculares y observar cielos estrellados.",
+    "question": "¿Qué tipo de clima tiene Tenerife?",
+    "answer": "Tenerife posee un clima subtropical, caracterizado por temperaturas suaves durante todo el año y escasas precipitaciones.",
     "references": [
-      "Si queréis subir hasta el pico del Teide, podéis hacerlo desde aquí haciendo uso de los teleféricos del Teide."
+      "Tenerife tiene un clima subtropical, que se traduce en temperaturas suaves y escasas precipitaciones durante el año."
     ]
   },
   {
-    "question": "¿Cuáles son los principales atractivos turísticos de Tenerife?",
-    "answer": "Los principales atractivos turísticos incluyen el Loro Parque, el Auditorio de Tenerife, y el Siam Park, conocido como el mejor parque acuático del mundo.",
+    "question": "¿Cuáles son los eventos culturales más importantes en Tenerife?",
+    "answer": "Los eventos culturales más importantes en Tenerife incluyen las fiestas de La Orotava, famosas por su alfombra gigante de arenas del Teide, y el Carnaval de Santa Cruz.",
     "references": [
-      "Para visitar el Puerto de la Cruz, os recomendaría ... el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
+      "En las fiestas de La Orotava se hace una alfombra gigante de arenas y tierras procedentes del Teide.",
+      "El Carnaval de Santa Cruz es uno de los eventos culturales más conocidos y visitados de la isla."
     ]
   },
   {
-    "question": "¿Cuál es la flora endémica de Tenerife?",
-    "answer": "Tenerife alberga la mayor cantidad de endemismos de Europa, destacando en su Parque Rural de Anaga.",
+    "question": "¿Cuáles son las características geográficas de Tenerife?",
+    "answer": "Tenerife es una isla montañosa con el Pico del Teide, el pico más alto de España, y abundantes costas y playas, tanto de arena negra como de arena blanca.",
     "references": [
-      "Parque rural de Anaga ... cuenta con la mayor cantidad de endemismos de Europa."
+      "Es el municipio más alto de España y con mayor desnivel, ya que va desde el mar hasta el pico del Teide (3.718 m).",
+      "Tenerife presenta características montañosas marcadas, destacando el Pico del Teide como su forma geográfica más icónica."
     ]
   },
   {
-    "question": "¿Qué eventos culturales destacan en Tenerife?",
-    "answer": "Destacan las fiestas de La Orotava, donde se realiza una alfombra gigante de arenas y tierras del Teide, considerada de interés turístico nacional.",
+    "question": "¿Qué actividades al aire libre se pueden realizar en Tenerife?",
+    "answer": "En Tenerife, se pueden realizar actividades como senderismo en el Parque Rural de Anaga, excursiones para ver delfines y ballenas, y deportes acuáticos en sus playas.",
     "references": [
-      "Las fiestas de La Orotava ...  y tiene el récord Guinness de mayor tapiz de tierra del mundo."
+      "Visitar esta zona de la isla es un must y lo suyo sería que aprovecharais un día en el Parque Rural de Anaga.",
+      "donde se hacen las típicas excursiones para ver delfines y ballenas."
     ]
   }
 ]
