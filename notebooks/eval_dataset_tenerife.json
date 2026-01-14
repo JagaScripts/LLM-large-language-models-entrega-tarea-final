@@ -1,37 +1,42 @@
 [
   {
-    "question": "¿Qué es Tenerife?",
-    "answer": "Tenerife es la isla más grande del archipiélago canario y un popular destino turístico conocido por su biodiversidad y variados paisajes.",
+    "question": "¿Cuáles son las principales atracciones turísticas de Tenerife?",
+    "answer": "Las principales atracciones turísticas de Tenerife incluyen el Parque Nacional del Teide, el Loro Parque, el Siam Park y las playas de Costa Adeje.",
     "references": [
-      "Tenerife es la isla más grande del archipiélago canario y un popular destino turístico conocido por su biodiversidad y variados paisajes. "
+      "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife.",
+      "El Siam Park ha sido considerado 5 años consecutivos como el mejor parque acuático del mundo.",
+      "el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
     ]
   },
   {
-    "question": "¿Cuáles son los principales atractivos turísticos de Tenerife?",
-    "answer": "Los principales atractivos turísticos incluyen el Teide, Siam Park, Los Gigantes, y el Loro Parque, entre otros.",
+    "question": "¿Qué tipo de clima tiene Tenerife?",
+    "answer": "Tenerife posee un clima subtropical, caracterizado por temperaturas suaves durante todo el año y escasas precipitaciones.",
     "references": [
-      "Los principales atractivos turísticos incluyen el Teide, Siam Park, Los Gigantes, y el Loro Parque. "
+      "Tenerife tiene un clima subtropical, que se traduce en temperaturas suaves y escasas precipitaciones durante el año."
     ]
   },
   {
-    "question": "¿Cómo es el clima de Tenerife?",
-    "answer": "El clima de Tenerife es cálido y soleado durante la mayor parte del año, con variaciones según la altitud.",
+    "question": "¿Cuáles son los eventos culturales más importantes en Tenerife?",
+    "answer": "Los eventos culturales más importantes en Tenerife incluyen las fiestas de La Orotava, famosas por su alfombra gigante de arenas del Teide, y el Carnaval de Santa Cruz.",
     "references": [
-      "El clima de Tenerife es cálido y soleado durante la mayor parte del año, con variaciones según la altitud. "
+      "En las fiestas de La Orotava se hace una alfombra gigante de arenas y tierras procedentes del Teide.",
+      "El Carnaval de Santa Cruz es uno de los eventos culturales más conocidos y visitados de la isla."
     ]
   },
   {
-    "question": "¿Qué festividades se celebran en Tenerife?",
-    "answer": "Las festividades en Tenerife incluyen el famoso Carnaval de Santa Cruz, que es una de las celebraciones más importantes de la isla.",
+    "question": "¿Cuáles son las características geográficas de Tenerife?",
+    "answer": "Tenerife es una isla montañosa con el Pico del Teide, el pico más alto de España, y abundantes costas y playas, tanto de arena negra como de arena blanca.",
     "references": [
-      "Las festividades en Tenerife incluyen el famoso Carnaval de Santa Cruz, que es una de las celebraciones más importantes de la isla. "
+      "Es el municipio más alto de España y con mayor desnivel, ya que va desde el mar hasta el pico del Teide (3.718 m).",
+      "Tenerife presenta características montañosas marcadas, destacando el Pico del Teide como su forma geográfica más icónica."
     ]
   },
   {
-    "question": "¿Cuál es la fauna típica de Tenerife?",
-    "answer": "La fauna típica de Tenerife incluye varias especies endémicas como lagartos, aves y varios tipos de flora que no se encuentran en otras partes del mundo.",
+    "question": "¿Qué actividades al aire libre se pueden realizar en Tenerife?",
+    "answer": "En Tenerife, se pueden realizar actividades como senderismo en el Parque Rural de Anaga, excursiones para ver delfines y ballenas, y deportes acuáticos en sus playas.",
     "references": [
-      "La fauna típica de Tenerife incluye varias especies endémicas como lagartos, aves y varios tipos de flora que no se encuentran en otras partes del mundo. "
+      "Visitar esta zona de la isla es un must y lo suyo sería que aprovecharais un día en el Parque Rural de Anaga.",
+      "donde se hacen las típicas excursiones para ver delfines y ballenas."
     ]
   }
 ]
