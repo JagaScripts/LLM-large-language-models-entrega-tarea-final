@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "question": "¿Cuál es el punto más alto de Tenerife?",
     "answer": "El Teide es el punto más alto de Tenerife.",
     "references": [
@@ -33,6 +34,41 @@
     "answer": "El Teide es un volcán y el pico más alto de España, además es una atracción turística principal en Tenerife.",
     "references": [
       "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife『8:0†TENERIFE.pdf』."
+=======
+    "question": "¿Cuál es la capital de Tenerife?",
+    "answer": "La capital de la isla es Santa Cruz de Tenerife.",
+    "references": [
+      "Santa Cruz de Tenerife es la capital de la isla."
+    ]
+  },
+  {
+    "question": "¿Qué actividades se pueden hacer en Tenerife?",
+    "answer": "Se pueden realizar excursiones para ver delfines y ballenas, así como visitar el Acantilado de Los Gigantes.",
+    "references": [
+      "Es la zona del Sur comúnmente conocida por el Acantilado de Los Gigantes y donde se hacen las típicas excursiones para ver delfines y ballenas."
+    ]
+  },
+  {
+    "question": "¿Cuál es el clima típico de Tenerife?",
+    "answer": "El clima en Tenerife es favorable durante todo el año, caracterizado por temperaturas suaves.",
+    "references": [
+      "El clima típico de Tenerife es favorable durante todo el año, con temperaturas suaves."
+    ]
+  },
+  {
+    "question": "¿Qué tradiciones culturales son importantes en Tenerife?",
+    "answer": "Tenerife es conocida por sus tradiciones culturales como el Carnaval, considerado uno de los más importantes del mundo.",
+    "references": [
+      "Tenerife es conocida por sus tradiciones culturales como el Carnaval, considerado uno de los más importantes del mundo."
+    ]
+  },
+  {
+    "question": "¿Qué lugares turísticos son destacados en Tenerife?",
+    "answer": "El Parque Nacional del Teide y el Loro Parque son algunos de los lugares turísticos destacados.",
+    "references": [
+      "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife.",
+      "En el Puerto de la Cruz también se encuentra el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
+>>>>>>> 043682618e52cf48592131adbd05ce661a0ed36e
     ]
   }
 ]
