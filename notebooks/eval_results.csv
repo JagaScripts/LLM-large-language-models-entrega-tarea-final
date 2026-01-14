@@ -1,0 +1,46 @@
+question,agent_answer,reference,faithfulness,correctness,ctx_precision,reasoning
+¿Cuáles son las principales características geográficas de Tenerife?,"Tenerife es una isla de características geográficas muy diversas. Aquí te comparto algunas de sus principales características:
+
+1. **Pico del Teide**: Es el punto más alto de España, con una altitud de 3,718 metros. Este volcán es también un símbolo icónico de la isla y forma parte del Parque Nacional del Teide, que es un sitio protegido y un atractivo turístico importante.
+
+2. **Relieve variado**: Tenerife presenta un relieve montañoso y abrupto, lo que crea una variedad de paisajes, desde playas de arena negra en el norte hasta zonas de playas de arena blanca en el sur. El municipio de La Orotava destaca por ser el municipio más alto de España y alberga un notable desnivel desde el nivel del mar hasta el Teide.
+
+3. **Parque Rural de Anaga**: Este área ha sido declarada Reserva de la Biosfera, destacándose por la rica biodiversidad y la presencia de numerosas especies endémicas. Además, ofrece una gran cantidad de miradores y rutas para realizar caminatas.
+
+4. **Costa**: La costa de Tenerife varía desde acantilados imponentes, como los de Los Gigantes, hasta tranquilas playas, y cada zona tiene su propio encanto natural. Las playas en el norte son predominantemente de arena negra y las del sur suelen ser de arena blanca, lo que atrae a diferentes tipos de turistas.
+
+5. **Microclimas**: Gracias a su topografía, Tenerife experimenta diferentes microclimas que permiten una variedad de ecosistemas y paisajes, desde bosques de laurisilva en Anaga hasta paisajes áridos en otras zonas.
+
+Estas características hacen de Tenerife una isla única y fascinante para explorar. Si tienes más preguntas o quieres saber más sobre un área específica, ¡pregunta con confianza!","Tenerife es conocida por su variado paisaje que incluye montañas, playas y espacios naturales como el Parque Nacional del Teide y el Parque Rural de Anaga, que es una Reserva de la Biosfera.",1.0,0.9,1.0,"La respuesta del agente se basa completamente en características geográficas específicas que son relevantes para la pregunta, como el Pico del Teide y el Parque Rural de Anaga, que se alinean con el contenido recuperado. Aunque la respuesta del agente incluye más detalles que la respuesta de referencia, estos son precisos y relevantes, por lo que la similitud semántica se considera alta, aunque no perfecta. Todos los contextos recuperados son relevantes y útiles para la pregunta formulada."
+¿Qué actividades turísticas se pueden realizar en Tenerife?,"¡Tenerife es un destino ideal para todos los gustos! Aquí tienes algunas actividades turísticas imperdibles que puedes disfrutar en la isla:
+
+1. **Siam Park**: Ubicado en Costa Adeje, este parque acuático ha sido considerado el mejor del mundo durante cinco años. Ofrece increíbles atracciones y experiencias acuáticas.
+
+2. **Excursiones en Los Gigantes**: Puedes disfrutar de paseos en barco para ver delfines y ballenas, así como actividades como kayak y motos de agua.
+
+3. **Parque Rural de Anaga**: Este espacio natural protegido es perfecto para caminatas y cuenta con miradores impresionantes. La Playa de Benijo es un lugar magnífico para ver atardeceres espectaculares.
+
+4. **Visitas culturales y históricas**: Santa Cruz de Tenerife, la capital de la isla, y San Cristóbal de La Laguna, Patrimonio de la Humanidad, ofrecen ricas experiencias culturales y arquitectónicas.
+
+5. **Parque Nacional del Teide**: No te puedes ir sin subir al Teide, que es el pico más alto de España. Puedes usar los teleféricos para disfrutar de vistas increíbles.
+
+6. **Loro Parque**: Ubicado en Puerto de la Cruz, este zoológico ha sido reconocido como uno de los mejores del mundo. Es un lugar que no debes perderte.
+
+Estas son solo algunas de las muchas actividades que Tenerife tiene para ofrecer. ¡Seguro que disfrutarás cada momento! Si necesitas más información sobre alguna actividad específica, ¡pregúntame!","Entre las actividades turísticas recomendadas en Tenerife se incluyen visitar el Siam Park, excursiones para ver delfines y ballenas, y explorar el Pico del Teide.",1.0,0.8,1.0,"La respuesta del agente se basa completamente en información relevante a las actividades turísticas en Tenerife, cumpliendo con el criterio de fealdad. Sin embargo, aunque la respuesta es muy completa y abarca varias actividades, no se ajusta estrictamente a la respuesta de referencia, ya que incluye más actividades de las mencionadas, llevando a una puntuación de corrección ligeramente inferior. Los contextos recuperados son pertinentemente específicos sobre actividades en Tenerife, lo que respalda una puntuación alta en precisión del contexto."
+¿Cuál es la población aproximada de Tenerife?,"No he encontrado información específica sobre la población aproximada de Tenerife en el PDF que has proporcionado. Sin embargo, según datos generales, la población de Tenerife es de aproximadamente 900,000 habitantes. Si necesitas información más detallada o específica, no dudes en preguntar. ¡Disfruta de la isla!","La población aproximada de Tenerife es de 900,000 habitantes, siendo la más poblada del archipiélago canario.",1.0,1.0,1.0,"La respuesta del agente se basa en información general y coincide semánticamente con la respuesta de referencia, que también indica que la población aproximada de Tenerife es de 900,000 habitantes. No parece haber alucinaciones y el contexto recuperado es relevante para la pregunta, aunque no se menciona explícitamente en la respuesta."
+¿Qué clima predomina en Tenerife?,"Tenerife cuenta con un clima subtropical, caracterizado por temperaturas suaves y agradables durante todo el año. La isla recibe una gran cantidad de sol, lo que la convierte en un destino perfecto para disfrutar del aire libre. Las temperaturas promedio varían entre los 18°C en invierno y pueden alcanzar hasta 30°C en verano. Además, existe una notable diferencia climática entre el norte y el sur; mientras que el norte puede ser más húmedo y fresco, el sur tiende a ser más seco y soleado.
+
+¡Así que no olvides traer tu protector solar y disfruta de lo que Tenerife tiene para ofrecer!","El clima de Tenerife es generalmente cálido y templado, con temperaturas que varían poco a lo largo del año, lo que lo hace ideal para el turismo durante todo el año.",1.0,0.9,1.0,"La respuesta del agente se basa en información precisa sobre el clima de Tenerife, coincidiendo en gran medida con la respuesta de referencia y sin elementos alucinatorios. Aunque el agente proporciona más detalles sobre las temperaturas y características del clima que no están en la referencia, la información es correcta y relevante. Los contextos recuperados son pertinentes ya que abordan directamente la pregunta sobre el clima, garantizando que la respuesta se mantenga dentro del tema requerido."
+¿Cuáles son las tradiciones culturales más destacadas de Tenerife?,"Las tradiciones culturales más destacadas de Tenerife son muy diversas y reflejan la rica herencia de la isla. Algunos ejemplos incluyen:
+
+1. **Las Fiestas de La Orotava**: Estas festividades son consideradas de Interés Turístico Nacional y se caracterizan por la creación de una alfombra gigante de arenas y tierras volcánicas procedentes del Teide, logrando incluso un récord Guinness como el mayor tapiz de tierra del mundo.
+
+2. **Guachinches**: Son restaurantes típicos de la zona norte donde se sirven platos locales en un ambiente informal. La experiencia de comer en un guachinche es única. Ofrecen un menú muy limitado, lo que permite disfrutar de la auténtica cocina canaria.
+
+3. **El Carnaval de Santa Cruz**: Es uno de los carnavales más famosos del mundo, lleno de color, música y alegría. La festividad incluye desfiles, concursos de disfraces y otras actividades festivas que atraen a miles de visitantes cada año.
+
+4. **Tradiciones del Día de los Muertos**: En muchos lugares de la isla, se celebran rituales y ofrendas para recordar a los difuntos, mezclando tradiciones indígenas y españolas.
+
+5. **Rituales de la agricultura**: Las fiestas en honor a la cosecha y la agricultura también son clave en la cultura local, donde se celebran rituales y se elaboran productos típicos como el gofio.
+
+Estas tradiciones son solo una muestra de la rica cultura que se vive en Tenerife, haciendo de la isla un lugar lleno de vida y historia. ¡Es un destino fascinante para explorar!","Las tradiciones culturales más destacadas de Tenerife incluyen las festividades locales como el Carnaval de Tenerife, que es uno de los más grandes y conocidos de España.",0.8,0.6,0.7,"La respuesta del agente ofrece una visión amplia de las tradiciones culturales de Tenerife, pero incluye detalles que no están presentes en la respuesta de referencia. Aunque se basa en la cultura local, se desvía un poco al incluir más tradiciones de las mencionadas en la respuesta de referencia, lo que reduce la precisión de la respuesta. Sin embargo, los contextos recuperados son relevantes, aunque algunos aspectos mencionados por el agente no son tan destacados como los del contexto original."
