@@ -26,4 +26,4 @@ Este proyecto implementa un sistema de **Retrieval Augmented Generation (RAG)** 
 ## Estructura
 *   `data/`: Datos crudos (PDF).
 *   `notebooks/`: Prototipado (Notebook Driven Development).
-*   `src/`: Código fuente modular (Clean Code).
+
