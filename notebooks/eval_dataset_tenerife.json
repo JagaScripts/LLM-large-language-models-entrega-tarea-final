@@ -1,42 +1,39 @@
 [
   {
-    "question": "¿Cuáles son las principales atracciones turísticas de Tenerife?",
-    "answer": "Las principales atracciones turísticas de Tenerife incluyen el Parque Nacional del Teide, el Loro Parque, el Siam Park y las playas de Costa Adeje.",
+    "question": "¿Cuál es la capital de Tenerife?",
+    "answer": "La capital de Tenerife es Santa Cruz de Tenerife.",
     "references": [
-      "Si vais a Tenerife y no subís al Parque Nacional del Teide, simplemente no habéis estado en Tenerife.",
+      "Santa Cruz de Tenerife es la capital de la isla."
+    ]
+  },
+  {
+    "question": "¿Qué características geográficas tiene Tenerife?",
+    "answer": "Tenerife cuenta con montañas, playas de arena blanca y negra, y el famoso pico del Teide.",
+    "references": [
+      "Costa Adeje es actualmente la zona turística por excelencia de Tenerife.",
+      "también tenéis el Parque Nacional del Teide, simplemente no habéis estado en Tenerife."
+    ]
+  },
+  {
+    "question": "¿Cuáles son las principales actividades turísticas en Tenerife?",
+    "answer": "Las principales actividades turísticas incluyen visitar el Siam Park, avistar delfines en Los Gigantes y explorar el Parque Nacional del Teide.",
+    "references": [
       "El Siam Park ha sido considerado 5 años consecutivos como el mejor parque acuático del mundo.",
-      "el Loro Parque, que ha sido considerado varios años como el Mejor Zoológico del Mundo."
+      "Los Gigantes es una zona del Sur comúnmente conocida por el Acantilado de Los Gigantes."
     ]
   },
   {
-    "question": "¿Qué tipo de clima tiene Tenerife?",
-    "answer": "Tenerife posee un clima subtropical, caracterizado por temperaturas suaves durante todo el año y escasas precipitaciones.",
+    "question": "¿Qué eventos culturales se celebran en Tenerife?",
+    "answer": "En Tenerife se celebran fiestas de interés turístico, como las fiestas de La Orotava, donde se hace una alfombra gigante de arenas del Teide.",
     "references": [
-      "Tenerife tiene un clima subtropical, que se traduce en temperaturas suaves y escasas precipitaciones durante el año."
+      "En las fiestas de La Orotava se hace una alfombra gigante de arenas y tierras procedentes del Teide."
     ]
   },
   {
-    "question": "¿Cuáles son los eventos culturales más importantes en Tenerife?",
-    "answer": "Los eventos culturales más importantes en Tenerife incluyen las fiestas de La Orotava, famosas por su alfombra gigante de arenas del Teide, y el Carnaval de Santa Cruz.",
+    "question": "¿Cuál es la flora y fauna destacada en Tenerife?",
+    "answer": "Tenerife es conocida por su biodiversidad, incluyendo el Drago Milenario como un árbol único y una gran cantidad de endemismos en el Parque Rural de Anaga.",
     "references": [
-      "En las fiestas de La Orotava se hace una alfombra gigante de arenas y tierras procedentes del Teide.",
-      "El Carnaval de Santa Cruz es uno de los eventos culturales más conocidos y visitados de la isla."
-    ]
-  },
-  {
-    "question": "¿Cuáles son las características geográficas de Tenerife?",
-    "answer": "Tenerife es una isla montañosa con el Pico del Teide, el pico más alto de España, y abundantes costas y playas, tanto de arena negra como de arena blanca.",
-    "references": [
-      "Es el municipio más alto de España y con mayor desnivel, ya que va desde el mar hasta el pico del Teide (3.718 m).",
-      "Tenerife presenta características montañosas marcadas, destacando el Pico del Teide como su forma geográfica más icónica."
-    ]
-  },
-  {
-    "question": "¿Qué actividades al aire libre se pueden realizar en Tenerife?",
-    "answer": "En Tenerife, se pueden realizar actividades como senderismo en el Parque Rural de Anaga, excursiones para ver delfines y ballenas, y deportes acuáticos en sus playas.",
-    "references": [
-      "Visitar esta zona de la isla es un must y lo suyo sería que aprovecharais un día en el Parque Rural de Anaga.",
-      "donde se hacen las típicas excursiones para ver delfines y ballenas."
+      "Es el municipio más alto de España y con mayor desnivel, ya que va desde el mar hasta el pico del Teide."
     ]
   }
 ]
