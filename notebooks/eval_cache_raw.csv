@@ -1,0 +1,56 @@
+question,agent_answer,reference,faithfulness,correctness,ctx_precision,reasoning
+¿Cuál es la capital de Tenerife?,"La capital de Tenerife es **Santa Cruz de Tenerife**. Es un lugar lleno de vida y con muchos puntos de interés para explorar, como el Parque Marítimo César Manrique y la Plaza de España. ¡Es un destino que definitivamente vale la pena visitar!",La capital de la isla es Santa Cruz de Tenerife.,1.0,1.0,0.8,"La respuesta del agente se basa en el contexto recuperado y está alineada semánticamente con la respuesta de referencia, indicando correctamente que la capital de Tenerife es Santa Cruz de Tenerife. Sin embargo, la parte adicional sobre puntos de interés, aunque relevante, no es necesaria para responder la pregunta específica sobre la capital, por lo que la precisión del contexto es ligeramente menor."
+¿Qué actividades se pueden hacer en Tenerife?,"¡Tenerife es un lugar lleno de actividades emocionantes! Aquí tienes algunas de las mejores opciones:
+
+1. **Siam Park**: Este parque acuático ha sido considerado el mejor del mundo durante cinco años consecutivos. Ofrece atracciones increíbles, como la ola artificial más grande y el río lento más extenso.
+
+2. **Avistamiento de cetáceos**: En la zona de Los Gigantes, puedes disfrutar de excursiones para ver delfines y ballenas, así como actividades como kayak y motos de agua.
+
+3. **Parque Rural de Anaga**: Un espacio natural protegido con rutas de senderismo y miradores espectaculares. Es ideal para los amantes de la naturaleza.
+
+4. **Visitas culturales**: Puedes explorar pueblos como Icod de los Vinos, donde se encuentra el famoso Drago Milenario, y Garachico, conocido por sus piscinas naturales.
+
+5. **Subida al Teide**: No puedes irte sin visitar el Parque Nacional del Teide. Puedes subir en teleférico y disfrutar de vistas impresionantes.
+
+6. **Playas**: Tenerife cuenta con hermosas playas como la Playa de Benijo, famosa por sus atardeceres, y la Playa de Las Teresitas, ideal para relajarse.
+
+7. **Loro Parque**: Este zoológico ha sido considerado uno de los mejores del mundo y es una visita obligada para los amantes de los animales.
+
+¡Espero que disfrutes de todas estas actividades en tu visita a Tenerife! Si necesitas más información, no dudes en preguntar.","Se pueden realizar excursiones para ver delfines y ballenas, así como visitar el Acantilado de Los Gigantes.",0.8,0.6,0.7,"La respuesta del agente incluye varias actividades en Tenerife que, aunque son correctas y relevantes, abarca más de lo que se solicita en la respuesta de referencia. Esto sugiere un cierto grado de alucinación en el sentido de que no se limita a los contextos recuperados específicos. La respuesta de referencia menciona específicamente las excursiones para avistar cetáceos y el Acantilado de Los Gigantes, lo cual no se incluye, aunque el agente menciona la zona de Los Gigantes. La precisión del contexto es moderada, ya que aunque muchas actividades son relevantes, la referencia no es contundente en su relación con todas ellas."
+¿Cuál es el clima típico de Tenerife?,"¡Claro! El clima de Tenerife es típicamente cálido y templado, lo que lo convierte en un destino ideal durante todo el año. La isla disfruta de un clima subtropical, con temperaturas que oscilan entre los 18°C y 30°C, dependiendo de la época del año y la altitud.
+
+En la costa, las temperaturas son más cálidas y agradables, mientras que en las zonas montañosas, como el Teide, pueden ser más frescas. Además, Tenerife tiene una gran variedad de microclimas, lo que significa que puedes experimentar diferentes condiciones climáticas en distancias cortas.
+
+Si buscas disfrutar de un clima soleado, los meses de verano son perfectos, aunque la primavera y el otoño también ofrecen temperaturas agradables y menos turistas. ¡Es un lugar maravilloso para disfrutar del sol y la naturaleza! 
+
+Si necesitas más información específica, ¡no dudes en preguntar!","El clima en Tenerife es favorable durante todo el año, caracterizado por temperaturas suaves.",1.0,0.8,0.9,"La respuesta del agente se basa en el clima de Tenerife, lo cual está alineado con el contexto general, por lo que es completamente fiel a la información recuperada. Sin embargo, aunque proporciona información más detallada y extensa, algunos aspectos pueden ser considerados como exceso de información respecto a la respuesta de referencia, por lo que no es completamente equivalente. Aun así, los contextos recuperados son relevantes y pertinentes a la pregunta planteada, reflejando bien el clima de la isla."
+¿Qué tradiciones culturales son importantes en Tenerife?,"En Tenerife, hay varias tradiciones culturales que son muy importantes y que reflejan la rica herencia de la isla. Algunas de las más destacadas incluyen:
+
+1. **Fiestas de La Orotava**: Estas fiestas son consideradas de Interés Turístico Nacional y son famosas por la creación de una alfombra gigante hecha de arenas y tierras del Teide, que ha ganado un récord Guinness como el mayor tapiz de tierra del mundo.
+
+2. **Guachinches**: Son establecimientos típicos donde se sirve comida casera y vino local. La experiencia de comer en un guachinche es única, ya que no tienen una carta fija y se basa en lo que se ofrece en el día. Es una parte esencial de la cultura gastronómica de Tenerife.
+
+3. **Carnaval de Santa Cruz de Tenerife**: Este carnaval es uno de los más grandes y coloridos del mundo, con desfiles, música y disfraces elaborados. Es una celebración que atrae a miles de visitantes cada año y es un reflejo de la alegría y creatividad de los tinerfeños.
+
+4. **Tradiciones religiosas**: Las festividades religiosas, como la celebración de la Virgen de Candelaria, son muy importantes. La Virgen es la patrona de las Islas Canarias y su festividad atrae a muchos peregrinos y turistas.
+
+Estas tradiciones no solo son un reflejo de la identidad cultural de Tenerife, sino que también son una forma de unir a la comunidad y celebrar su historia y costumbres. ¡Espero que disfrutes de la rica cultura de la isla!","Tenerife es conocida por sus tradiciones culturales como el Carnaval, considerado uno de los más importantes del mundo.",0.9,0.7,0.8,"La respuesta del agente se basa en el contexto recuperado sobre las tradiciones culturales de Tenerife, presentando información relevante y detallada. Sin embargo, la respuesta de referencia es más breve y se centra principalmente en el Carnaval, mientras que el agente expande con otros elementos culturales. Aunque la mayor parte de la respuesta no se desvía del contexto, la variabilidad de la información afecta ligeramente la puntuación de corrección de la respuesta."
+¿Qué lugares turísticos son destacados en Tenerife?,"¡Tenerife está llena de lugares maravillosos para visitar! Aquí te dejo algunos de los más destacados:
+
+1. **Siam Park**: Este parque acuático ha sido considerado el mejor del mundo durante cinco años consecutivos. Ofrece una gran variedad de toboganes y una ola artificial impresionante.
+
+2. **Los Gigantes**: Famoso por sus impresionantes acantilados, es un lugar ideal para excursiones en barco donde puedes ver delfines y ballenas.
+
+3. **Parque Nacional del Teide**: No puedes irte de Tenerife sin visitar el Teide, el pico más alto de España. La vista desde allí es espectacular, especialmente si subes por la carretera TF24.
+
+4. **Parque Rural de Anaga**: Este espacio natural protegido es perfecto para los amantes del senderismo, con miradores y rutas que ofrecen vistas impresionantes.
+
+5. **Isla Baja**: Incluye localidades como Icod de los Vinos y Garachico, donde puedes ver el famoso Drago Milenario y disfrutar de las piscinas naturales del Caletón.
+
+6. **Puerto de la Cruz**: Conocido por su ambiente turístico, aquí encontrarás el Loro Parque, considerado uno de los mejores zoológicos del mundo, y el Lago de Martiánez, un conjunto de piscinas naturales.
+
+7. **Santa Cruz de Tenerife**: La capital de la isla, donde puedes visitar el Auditorio de Tenerife y disfrutar de la Playa de Las Teresitas.
+
+8. **Masca**: Un pintoresco pueblo en las montañas, famoso por su barranco y vistas espectaculares. Es ideal para los que buscan aventura y naturaleza.
+
+Cada uno de estos lugares tiene su propio encanto y ofrece experiencias únicas. ¡Espero que disfrutes de tu visita a Tenerife!",El Parque Nacional del Teide y el Loro Parque son algunos de los lugares turísticos destacados.,1.0,0.6,0.8,"La respuesta del agente se basa completamente en el contexto recuperado sobre lugares turísticos destacados en Tenerife, lo que cumple con el criterio de 'faithfulness'. Sin embargo, la respuesta es más extensa y ofrece muchas más opciones que la referencia, por lo cual la 'answer correctness' se califica como moderada. Por otro lado, los contextos recuperados como el Parque Nacional del Teide y el Loro Parque son relevantes y contribuyen a la pertinencia de la respuesta."
