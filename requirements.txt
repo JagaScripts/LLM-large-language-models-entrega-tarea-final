@@ -15,3 +15,5 @@ tqdm==4.67.1
 pypdf==5.1.0
 jupyter
 ipykernel
+
+pandas
